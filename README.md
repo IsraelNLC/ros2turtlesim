@@ -9,3 +9,7 @@ biblioteca rclpy.
 corretamente, ou seja, uma máquina real ou simulada com o sistema ubuntu, com a biblioteca ROS2
 instalada. Além disso, o TurtleSim deve ser iniciado antes da simulação em python.
 
+Vídeo da simulação funcionando:
+https://youtu.be/kUAiDnCFkD0
+
+![20230424_214715](https://user-images.githubusercontent.com/99210055/234151980-d8383d7b-45af-4703-9aaa-806d382e390d.jpg)
